@@ -6,7 +6,7 @@ from datetime import timedelta
 from math import modf
 
 DB_FILE_PATH = os.path.expandvars(
-    r"%LocalAppData%\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite"
+    r"%LocalAppData%\Packages\Microsoft.PhotosLegacy_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite"
 )
 
 
